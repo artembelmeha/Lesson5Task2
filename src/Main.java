@@ -8,7 +8,7 @@ public class Main {
 		File f2 = new File("file2.txt");
 		File f3 = new File("file3.txt");
 		
-		FileOperation.commonWordsInOneFile(f1,f2,f3);
+		FileOperation.commonWordsInOneFile(f1,f2, f3);
 		
 		
 	}
